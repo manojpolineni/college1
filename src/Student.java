@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class Student {
 
-    char[] studentname = new char[15];
+    String studentname;
     Date dob;
     String email;
 
